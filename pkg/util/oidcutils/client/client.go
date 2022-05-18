@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/lestrrat/go-jwx/jwk"
+	"github.com/lestrrat-go/jwx/jwk"
 
 	"yunion.io/x/jsonutils"
 	"yunion.io/x/log"

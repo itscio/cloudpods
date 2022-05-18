@@ -77,8 +77,6 @@ require (
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
 	github.com/koding/websocketproxy v0.0.0-20181220232114-7ed82d81a28c
 	github.com/lestrrat-go/jwx v1.0.2
-	github.com/lestrrat/go-jwx v0.0.0-20180221005942-b7d4802280ae
-	github.com/lestrrat/go-pdebug v0.0.0-20180220043741-569c97477ae8 // indirect
 	github.com/libvirt/libvirt-go-xml v5.2.0+incompatible
 	github.com/ma314smith/signedxml v0.0.0-20200410192636-c342a2d0ae60
 	github.com/mattn/go-isatty v0.0.14 // indirect
